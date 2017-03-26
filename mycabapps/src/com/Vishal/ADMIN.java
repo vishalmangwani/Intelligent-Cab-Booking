@@ -32,7 +32,7 @@ public class ADMIN extends HttpServlet {
 			try
 			{
 				Class.forName("com.ibm.db2.jcc.DB2Driver");
-				Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","PINTU","123456");
+				Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","Vishal","123456");
 			    out.println("successfully connected with iesminor database");
 			    Statement st=con.createStatement();
 			    String u=request.getParameter("x");
