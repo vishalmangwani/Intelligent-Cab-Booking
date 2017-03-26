@@ -1,9 +1,3 @@
-/*
-Script: Booking form script
-Author: Smart
-Varsion: 1.1
-*/
-
 includeScript ('../booking/js/jquery-ui-1.10.3.custom.min.js');
 includeScript ('../booking/js/jquery.fancyform.js');
 includeScript ('../booking/js/jquery.placeholder.js');

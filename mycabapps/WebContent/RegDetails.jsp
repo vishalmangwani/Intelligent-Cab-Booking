@@ -40,7 +40,7 @@ Released   : 20100928
 try
 {
 	Class.forName("com.ibm.db2.jcc.DB2Driver");
-	Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","PINTU","123456");
+	Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","Vishal","123456");
     
     
     Statement st=con.createStatement();

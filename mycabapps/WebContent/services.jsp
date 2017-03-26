@@ -195,7 +195,7 @@
 		<footer>
 			<div class="container_12">
 				<div class="grid_12">
-					<div class="f_phone"><span>Call Us:</span> + 91 8821981166 </div>
+					<div class="f_phone"><span>Call Us:</span> XXXXXXXXXXX </div>
 					<div class="socials">
 						<a href="#" class="fa fa-twitter"></a>
 						<a href="#" class="fa fa-facebook"></a>

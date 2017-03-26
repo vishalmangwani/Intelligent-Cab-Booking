@@ -78,9 +78,9 @@
 						<h3>Contact Info</h3>
 						<div class="map">
 							<div class="text1 color2"></div>
-							<p>NAME::ABHAY KUMAR PINTU </p>
-							<p>mobile nimber=8871761500 </p>
-							<p>EMAIL ID=abhayspj10@gmail.com </p>
+							<p>NAME:Vishal Kumar Mangwani </p>
+							<p>mobile nimber=XXXXXXXXXXXX </p>
+							<p>EMAIL ID=mangwani.vishal@gmail.com </p>
 							<address>
 						  </address>
 						</div>
@@ -96,7 +96,7 @@
 		<footer>
 			<div class="container_12">
 				<div class="grid_12">
-					<div class="f_phone"><span>Call Us:</span> + 8878691580 </div>
+					<div class="f_phone"><span>Call Us:</span> + XXXXXXXXXX </div>
 					<div class="socials">
 						<a href="#" class="fa fa-twitter"></a>
 						<a href="#" class="fa fa-facebook"></a>
