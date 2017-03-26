@@ -48,7 +48,7 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 	
 		
 		Class.forName("com.ibm.db2.jcc.DB2Driver");
-		Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","PINTU","123456");
+		Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","Vishal","123456");
 	   out.println("<h2>SUCCESSFULLY SUBMITED YOUR ENTRIES::<br>");
 	   out.println("<h2>STATUS YOUR BOOKING SEND YOUR MOBILE NUMBER AND EMAILID IN ONLY 10 MINNUTES::<br>");
 	   
