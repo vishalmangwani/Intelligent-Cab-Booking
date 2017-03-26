@@ -47,7 +47,7 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 	
 		
 		Class.forName("com.ibm.db2.jcc.DB2Driver");
-		Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","PINTU","123456");
+		Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/MINNOR","Vishal","123456");
 	   out.println("<h2>SUCCESSFULLY SUBMITED YOUR ENTRIES::<br>");
 	   Statement st=con.createStatement();
 	   st.executeUpdate("insert into REGISTATION(userid,name,email,phonenumber,password,gender,address,state,pin) values('"+userid+"','"+name+"','"+email+"','"+phonenumber+"','"+password+"','"+gender+"','"+address+"','"+state+"','"+pin+"')");
